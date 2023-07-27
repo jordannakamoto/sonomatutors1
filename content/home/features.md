@@ -5,7 +5,7 @@ weight: 0
 title: Community
 subtitle: ✨ Learning doesn't happen on an island. We teach how to plan and
   organize for students' real world academic goals, how to discuss ideas and
-  communicate their knowledge to others..
+  communicate their knowledge to others.
 feature:
   - icon: chalkboard-teacher
     icon_pack: fas
@@ -20,4 +20,5 @@ feature:
     name: Math & Code
     description: null
 widget_id: features
+active: true
 ---
