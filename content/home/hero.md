@@ -12,12 +12,8 @@ cta:
 widget_id: home
 headless: true
 weight: 10
-title: Sonoma Tutors
-subtitle: Welcome to our engaging tutoring sessions, where we emphasize the
-  importance of organization in your academic journey. Learn essential
-  strategies for planning, prioritizing, organizing, and executing tasks, all
-  while building self-regard. Our goal is to equip you for a successful and
-  fulfilling future.
+title: Looking for a tutor?
+subtitle: ""
 cta_alt:
   ? url
   ? label
@@ -29,3 +25,4 @@ design:
     text_color_light: false
 hero_media: teacher.png
 ---
+Education is a path of growth as we learn by doing, engaging in discussion, and teaching others. Our tutoring company strives to develop students' intuition and abilities in order to discover their own approach to learning. We work on both the fundamentals of studying and succeeding at school as well as introducing more complex topics and hands-on projects.
