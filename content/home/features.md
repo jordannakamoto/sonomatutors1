@@ -1,11 +1,11 @@
 ---
 widget: featurette
 headless: true
-weight: 20
+weight: 0
 title: Community
-subtitle: ✨ Learning doesn't happen on an island. We teach students how to plan
-  and organize for their academic goals and how to discuss ideas and communicate
-  their thoughts in groups.
+subtitle: ✨ Learning doesn't happen on an island. We teach how to plan and
+  organize for students' real world academic goals, how to discuss ideas and
+  communicate their knowledge to others..
 feature:
   - icon: chalkboard-teacher
     icon_pack: fas
