@@ -13,6 +13,11 @@ widget_id: home
 headless: true
 weight: 10
 title: Sonoma Tutors
+subtitle: Welcome to our engaging tutoring sessions, where we emphasize the
+  importance of organization in your academic journey. Learn essential
+  strategies for planning, prioritizing, organizing, and executing tasks, all
+  while building self-regard. Our goal is to equip you for a successful and
+  fulfilling future.
 cta_alt:
   ? url
   ? label
